@@ -2329,3 +2329,9 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
+strong, b {
+  font-weight: 700 !important;
+}
+body, h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Jost', 'Noto Sans SC', Arial, sans-serif !important;
+}
